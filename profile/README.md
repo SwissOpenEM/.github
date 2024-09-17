@@ -1,12 +1,12 @@
 ## Summary
 
-The Open EM Data Network (OpenEM) is a consortium of Swiss electron microscopy facilities working together to:
+The [OpenEM](https://swissopenem.github.io/) Data Network is a consortium of Swiss electron microscopy facilities working together to:
 
 - Improve Open Research Data (ORD) practices in the Swiss EM community
 - Provide an open and [FAIR](https://force11.org/info/the-fair-data-principles/) repository for Swiss EM data not hosted elsewhere
 - Standardize EM metadata & automate collection at Swiss EM facilities
 - Follow a consistent data lifecycle when collecting data at different facilities
-- Streamline publication of EM data into open repositories like EMPIAR, EMDB, and the PDB
+- Streamline publication of EM data into open repositories like [EMPIAR](https://www.ebi.ac.uk/empiar/), [EMDB](https://www.ebi.ac.uk/emdb/), and the [PDB](https://www.rcsb.org/)
 
 OpenEM will target both researchers producing EM data and consumers of open data for additional science. Data producers benefit from more streamlined data collection, standardized facilities, easier deposition for publication, and adherence to data management policies. The wider availability of open EM data brings numerous benefits, including reproducing results, applying new techniques to old data, training AI & other new methods, and mining data for new insights.
 
